@@ -2,8 +2,9 @@
 Infographic exploring how new architectural paradigms can fix the limitations of systems like ChatGPT
 
 This infographic is based on the concepts and work of the following paper by Yann LeCun:
-A Path Towards Autonomous Machine Intelligence
-by Yann LeCun
+
+A Path Towards Autonomous Machine Intelligence by Yann LeCun
+
 Source: https://openreview.net/pdf?id=BZ5a1r-kVsf
 
 ### Download higher resolution versions of the Infographic at:
