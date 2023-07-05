@@ -1,9 +1,12 @@
-# Every Prompt Matters Infographic
-Infographic exploring the quickly evolving LLM related AI ecosystem (will be updated regularly)
+# The Tower of Mind (towards a better ChatGPT) Infographic
+Infographic exploring how new architectural paradigms can fix the limitations of systems like ChatGPT
 
-This infographic is based on the concepts of the movie "Hamelin 77" that I directed and produced recently. The movie was made possible with the help of the following sponsors and partners: Mobile World Capital Barcelona through the Digital Future Society initiative, Programamos.es, Aerovisuales (joanlesan.com), Tejera Studio, Ideami Studios.
+This infographic is based on the concepts and work of the following paper by Yann LeCun:
+A Path Towards Autonomous Machine Intelligence
+by Yann LeCun
+Source: https://openreview.net/pdf?id=BZ5a1r-kVsf
 
 ### Download higher resolution versions of the Infographic at:
-https://github.com/javismiles/every-prompt-matters/tree/master/images
+https://github.com/javismiles/tower-of-mind/tree/master/images
 
-![Alt text](./images/Every-Prompt-Matters-Infographic-Javier-Ideami-apr23v1.jpg?raw=true "Every Prompt Matters Infographic")
+![Alt text](./images/tower-of-mind-infographic-javier-ideami-smaller-file.jpg?raw=true "Tower of Mind Infographic")
